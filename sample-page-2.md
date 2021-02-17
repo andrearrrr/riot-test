@@ -6,33 +6,19 @@ Vestibulum interdum ipsum nibh, sit amet egestas sem ornare in. Nunc pretium, ma
 
 ### sit amet
 
-Praesent rutrum id erat id ultricies. Fusce imperdiet enim at nibh bibendum euismod. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vel mauris posuere, venenatis ex ac, commodo nibh. Phasellus mattis quis erat at sagittis. Aliquam sit amet leo euismod, rhoncus tellus vel, condimentum augue. Cras porttitor nec dui in dictum. Quisque sed ex mi. Sed tincidunt nec augue a pellentesque. Fusce a neque vitae nisi molestie tincidunt.
-
-Lorem ipsum:
+The following is a simple C++ function:
 
 ```
-  hello_world() {
+  void hello_world() {
 
     print("Hello world!");
+    
+    return 0;
 
   }
 ```
 
 In the above example, `hello_world` is the name of the function that prints "Hello world!" to the screen.
-
-<details>
-  <summary><strong>Test</strong></summary>
-&nbsp;
-
-macOS users can connect to Discovery using the Terminal application that is natively installed. Linux users can similarly use the natively installed terminal application that comes with their distribution of Linux (e.g., Terminal on Ubuntu).
-
-To connect, open a new terminal window and enter:
-
-```
-ssh <username>@discovery.usc.edu
-```
-
-</details>
 
 ### sit amet
 
