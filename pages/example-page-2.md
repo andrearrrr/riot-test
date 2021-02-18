@@ -2,8 +2,6 @@
 
 Vestibulum interdum ipsum nibh, sit amet egestas sem ornare in. Nunc pretium, mauris id gravida dignissim, lectus risus mattis urna, ut conse. Vestibulum interdum ipsum nibh, sit amet egestas sem ornare in. Nunc pretium, mauris id gravida dignissim, lectus risus mattis urna, ut conse.
 
-![Riot Games](/riot.jpg)
-
 ### sit amet
 
 The following is a simple C++ function:
