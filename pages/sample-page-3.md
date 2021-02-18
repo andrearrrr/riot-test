@@ -1,4 +1,9 @@
-## More Markdown features
+---
+layout: page
+title: Sample Page 3
+---
+
+## Sample Page 3
 
 Markdown includes a wide variety of formatting features.
 
