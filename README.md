@@ -6,9 +6,9 @@ Welcome to my attempt at the Riot Games Technical Writer take-home test.
 
 ## Pages
 
-* [Sample page 1](/pages/example-page-1.md)
-* [Sample page 2](/pages/example-page-2.md)
-* [Sample page 3](/pages/example-page-3.md)
+* [Sample page 1](/pages/sample-page-1.md)
+* [Sample page 2](/pages/sample-page-2.md)
+* [Sample page 3](/pages/sample-page-3.md)
 * [find_champion (a real page!)](/pages/find-champion.md)
 
 ## Deliverables
