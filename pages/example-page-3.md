@@ -2,7 +2,7 @@
 
 Markdown includes a wide variety of formatting features.
 
-### [Tables](https://www.google.com/search?q=table&rlz=1C5CHFA_enUS920US926&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiBq6mekPLuAhWIKzQIHQDODIkQ_AUoAnoECBYQBA&biw=1440&bih=729)
+### Tables
 
 The following table shows information about three people:
 
@@ -18,7 +18,7 @@ The table shows their:
 * Ages
 * Current cities
 
-### [Syntax highlighting](https://www.google.com/search?q=highlighter&rlz=1C5CHFA_enUS920US926&source=lnms&tbm=isch&sa=X&ved=2ahUKEwinsLPDkPLuAhUZCTQIHauUA1IQ_AUoAnoECB0QBA&biw=1440&bih=729)
+### Syntax highlighting
 
 Different programming languages have different syntax rules, and Markdown can highlight syntax accordingly.
 
