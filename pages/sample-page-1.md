@@ -36,6 +36,7 @@ Hello!
 How's it going?
 
 </details>
+&nbsp;
 
 ### Other examples
 
