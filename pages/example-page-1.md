@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sample Page 1
+---
+
 ## Using HTML in Markdown files
 
 HTML can be used to style text in your Markdown files.
