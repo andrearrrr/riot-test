@@ -16,7 +16,7 @@ The following is a simple C++ function:
   }
 ```
 
-In the above example, `hello_world` is the name of the function that prints "Hello world!" to the screen.
+In the above example, `hello_world()` is the name of the function that prints "Hello world!" to the screen.
 
 ### sit amet
 
