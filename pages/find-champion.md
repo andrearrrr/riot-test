@@ -10,7 +10,11 @@
 | origin      | string | None           | 
 
 
-If the `name` argument matches an element's `name` in `champion_data`, that element is returned, even if the `role` and `origin` arguments do not match that element's `role` and `origin`. If the `name` argument does not match any element's `name` in `champion_data`, partial matches from `champion_data` based on the passed `role` and/or `origin` arguments are added to a list called `champion_suggestions`. If no arguments are passed to `find_champion()`, all elements of `champion_data` are added to `champion_suggestions` as potential matches.
+* If the `name` argument matches an element's `name` in `champion_data`, that element is returned, even if the `role` and `origin` arguments do not match that element's `role` and `origin`.
+
+* If the `name` argument does not match any element's `name` in `champion_data`, partial matches from `champion_data` based on the passed `role` and/or `origin` arguments are added to a list called `champion_suggestions`.
+
+* If no arguments are passed to `find_champion()`, all elements of `champion_data` are added to `champion_suggestions` as potential matches.
 
 **Returns:** An element from `champion_data` or the list `champion_suggestions`.
 
