@@ -1,6 +1,6 @@
 # Home: Riot Take-Home Test
 
-![Riot Games](/riot.jpg)
+[![Riot Games](/riot.jpg)](https://www.riotgames.com/en)
 
 Welcome to my attempt at the Riot Games Technical Writer take-home test. 
 
