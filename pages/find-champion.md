@@ -11,15 +11,13 @@ The `find_champion()` function takes up to 3 arguments and loops through a list 
 
 * If no arguments are passed to `find_champion()`, all elements of `champion_data` are added to `champion_suggestions` as potential matches.
 
-**Returns:** An element from `champion_data` or the list `champion_suggestions`.
-
----
-
 | Parameter   | Type   | Default value  | 
 |-------------|--------|----------------|
 | name        | str    | None           |
 | role        | str    | None           |
 | origin      | str    | None           | 
+
+**Returns:** An element from `champion_data` or the list `champion_suggestions`.
 
 ---
 
