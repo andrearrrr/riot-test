@@ -12,11 +12,13 @@
 **Returns:** An element from `champion_data` or the list `champion_suggestions`.
 
 ---
+
 | Parameter   | Type   | Default value  | 
 |-------------|--------|----------------|
 | name        | str    | None           |
 | role        | str    | None           |
 | origin      | str    | None           | 
+
 ---
 
 ### Example
