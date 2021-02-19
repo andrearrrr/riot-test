@@ -1,12 +1,6 @@
 ## find_champion(name=None, role=None, origin=None)
 *Python*
 
-| Parameter   | Type   | Default value  | 
-|-------------|--------|----------------|
-| name        | str    | None           |
-| role        | str    | None           |
-| origin      | str    | None           | 
-
 **Description:** The `find_champion()` function takes up to 3 arguments and loops through a list called `champion_data`, comparing the arguments to elements in the list.
 
 * If the `name` argument matches an element's `name` in `champion_data`, that element is returned, even if the `role` and `origin` arguments do not match that element's `role` and `origin`.
@@ -17,6 +11,12 @@
 
 **Returns:** An element from `champion_data` or the list `champion_suggestions`.
 
+---
+| Parameter   | Type   | Default value  | 
+|-------------|--------|----------------|
+| name        | str    | None           |
+| role        | str    | None           |
+| origin      | str    | None           | 
 ---
 
 ### Example
